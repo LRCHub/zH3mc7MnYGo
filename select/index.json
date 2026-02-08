@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "友 ～旅立ちの時～",
+  "base_artist": "ゆず",
+  "createdAt": "2026-02-08T12:29:39.650658Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "友 ～旅立ちの時～",
+      "artist": "ゆず",
+      "has_synced": false,
+      "path": "select/pl_01_友_~旅立ちの時~_ゆず.txt"
+    }
+  ]
+}
